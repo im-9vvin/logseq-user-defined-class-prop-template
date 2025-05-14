@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2025] [9vvin <9vvin.base@gmail.com>]
+Copyright (c) 2025 9vvin <9vvin.base@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
